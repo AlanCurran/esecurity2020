@@ -1,8 +1,8 @@
-// Using Python, using a decimal value of 41, determine the result of a shift left by one bit, a shift left by 2 bits, a right shift by one bit, and a right shift by two bits. 
+# Using Python, using a decimal value of 41, determine the result of a shift left by one bit, a shift left by 2 bits, a right shift by one bit, and a right shift by two bits. 
 
 import sys
 
-val1="41"
+val1="0111010"
 
 if (len(sys.argv)>1):
         val1=sys.argv[1]
